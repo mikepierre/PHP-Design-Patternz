@@ -1,4 +1,7 @@
 <?php
+/**
+* The Facade pattern is used to hide complexities from a system. 
+*/
 interface Shape
 {
 	protected static function draw(){}
